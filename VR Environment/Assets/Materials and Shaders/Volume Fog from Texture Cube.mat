@@ -43,13 +43,13 @@ Material:
     - Vector1_3B432204: 0
     - Vector1_4EEA1A9E: 1.4
     - Vector1_522DD793: 0
-    - Vector1_5E73A52C: 32.29
+    - Vector1_5E73A52C: 100
     - Vector1_6098A7A7: 1
     - Vector1_6DD21BAC: 13.18
     - Vector1_6F1EA0F8: 50
     - Vector1_705D9E76: 3.87
     - Vector1_82DE1604: 0.06
-    - Vector1_87A9718A: 2.19
+    - Vector1_87A9718A: 3.02
     - Vector1_94DE536A: 0
     - Vector1_A8E3BAE4: 0
     - Vector1_AF6ECEBD: 0
@@ -58,7 +58,7 @@ Material:
     - Vector1_FADB2BB0: 0
     - Vector1_FDB42E7D: 0.65
     m_Colors:
-    - Color_69AD1AD: {r: 0.65882355, g: 0.4055957, b: 0.29411766, a: 0.30588236}
+    - Color_69AD1AD: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 0.36078432}
     - Vector3_478B0511: {r: 3, g: 0, b: 0, a: 0}
     - Vector4_52CE31FB: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []

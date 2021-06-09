@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 0cfb666ba1af55a4eb934f786f637bd4
+  - enabled: 1
+    path: Assets/Scenes/Weather Project.unity
+    guid: db483ec15a5c9d843aca11714926492f
+  - enabled: 1
+    path: Assets/Scenes/Hallway.unity
+    guid: c6022e9babb738e41a3b628df4a1fa65
+  - enabled: 1
+    path: Assets/Scenes/TransitionScene.unity
+    guid: 3b2015f892443424db3371346f98dec8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d2c45a9416ea0f84fbd528a2a0022821, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: ac45a94619113b842b0c054951af0584, type: 2}
